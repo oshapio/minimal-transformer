@@ -1,3 +1,4 @@
+## Minimal-transformer
 
 Dependence-free original Transformer [1] re-implementation. The main goal here was to understand the inner-workings of the architecture rather than to build a production-ready efficient system. As such, I focus on simplicity and ease of understanding, which hopefully serve useful for others that want to see how the information flows in the architecture without the need to spend much effort processing data. 
 
